@@ -1,0 +1,13 @@
+2026-05-23 17:59:41:5941 [32minfo[39m: [32mAPI Gateway running on port 3000[39m
+2026-05-23 17:59:41:5941 [32minfo[39m: [32mAuth Service: undefined[39m
+2026-05-23 17:59:41:5941 [32minfo[39m: [32mUser Service: undefined[39m
+2026-05-23 17:59:41:5941 [32minfo[39m: [32mLocation Service: undefined[39m
+2026-05-23 17:59:41:5941 [32minfo[39m: [32mNotification Service: undefined[39m
+2026-05-23 18:14:46:1446 [32minfo[39m: [32mAPI Gateway running on port 3000[39m
+2026-05-23 18:14:46:1446 [32minfo[39m: [32mAuth Service: undefined[39m
+2026-05-23 18:14:46:1446 [32minfo[39m: [32mUser Service: undefined[39m
+2026-05-23 18:14:46:1446 [32minfo[39m: [32mLocation Service: undefined[39m
+2026-05-23 18:14:46:1446 [32minfo[39m: [32mNotification Service: undefined[39m
+2026-05-23 19:32:58:3258 [31merror[39m: [31mAuth service error: [39m
+2026-05-23 21:46:23:4623 [31merror[39m: [31mAuth service error: [39m
+2026-05-23 21:46:50:4650 [31merror[39m: [31mAuth service error: [39m

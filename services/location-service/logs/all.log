@@ -1,0 +1,15 @@
+2026-05-23 18:22:14:2214 [32minfo[39m: [32mRedis Geo connected[39m
+2026-05-23 18:22:14:2214 [32minfo[39m: [32mConnected to MongoDB[39m
+2026-05-23 18:22:14:2214 [32minfo[39m: [32mRedis Geo initialized[39m
+2026-05-23 18:22:15:2215 [32minfo[39m: [32mKafka producer connected[39m
+2026-05-23 18:22:15:2215 [32minfo[39m: [32mKafka producer connected successfully[39m
+2026-05-23 18:22:15:2215 [32minfo[39m: [32mConnected to Kafka Producer[39m
+2026-05-23 18:22:15:2215 [32minfo[39m: [32mKafka consumer connected[39m
+2026-05-23 18:22:15:2215 [32minfo[39m: [32mKafka consumer connected successfully[39m
+2026-05-23 18:22:15:2215 [32minfo[39m: [32mConnected to Kafka Consumer[39m
+2026-05-23 18:22:18:2218 [32minfo[39m: [32mSubscribed to topic: location.updated[39m
+2026-05-23 18:22:18:2218 [32minfo[39m: [32mSubscribed to topic: user.deleted[39m
+2026-05-23 18:22:18:2218 [32minfo[39m: [32mKafka consumer connected[39m
+2026-05-23 18:22:24:2224 [32minfo[39m: [32mKafka consumer started consuming messages[39m
+2026-05-23 18:22:24:2224 [32minfo[39m: [32mLocation Service running on port 3003[39m
+2026-05-23 21:22:41:2241 [31merror[39m: [31mKafka consumer request timeout[39m

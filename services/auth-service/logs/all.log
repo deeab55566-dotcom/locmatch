@@ -1,0 +1,7 @@
+2026-05-23 18:00:36:036 [31merror[39m: [31mRedis error: [39m
+2026-05-23 18:00:36:036 [31merror[39m: [31mRedis error: [39m
+2026-05-23 18:00:36:036 [31merror[39m: [31mFailed to start service: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string[39m
+2026-05-23 18:14:47:1447 [32minfo[39m: [32mRedis cache connected[39m
+2026-05-23 18:14:47:1447 [31merror[39m: [31mFailed to start service: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string[39m
+2026-05-23 22:06:30:630 [32minfo[39m: [32mRedis cache connected[39m
+2026-05-23 22:06:30:630 [31merror[39m: [31mFailed to start service: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string[39m

@@ -1,0 +1,16 @@
+2026-05-23 18:25:42:2542 [32minfo[39m: [32mKafka consumer connected[39m
+2026-05-23 18:25:42:2542 [32minfo[39m: [32mKafka consumer connected successfully[39m
+2026-05-23 18:25:42:2542 [32minfo[39m: [32mConnected to Kafka Consumer[39m
+2026-05-23 18:25:44:2544 [32minfo[39m: [32mSubscribed to topic: user.registered[39m
+2026-05-23 18:25:44:2544 [32minfo[39m: [32mSubscribed to topic: user.logged-in[39m
+2026-05-23 18:25:44:2544 [32minfo[39m: [32mSubscribed to topic: user.followed[39m
+2026-05-23 18:25:45:2545 [32minfo[39m: [32mSubscribed to topic: user.unfollowed[39m
+2026-05-23 18:25:45:2545 [32minfo[39m: [32mSubscribed to topic: user.profile.updated[39m
+2026-05-23 18:25:45:2545 [32minfo[39m: [32mSubscribed to topic: location.updated[39m
+2026-05-23 18:25:46:2546 [32minfo[39m: [32mSubscribed to topic: user.nearby.found[39m
+2026-05-23 18:25:46:2546 [32minfo[39m: [32mKafka consumer connected[39m
+2026-05-23 18:25:49:2549 [32minfo[39m: [32mKafka consumer started consuming messages[39m
+2026-05-23 18:25:49:2549 [32minfo[39m: [32mKafka event handlers set up successfully[39m
+2026-05-23 18:25:49:2549 [32minfo[39m: [32mNotification Service running on port 3004[39m
+2026-05-23 18:25:49:2549 [32minfo[39m: [32mWebSocket server enabled[39m
+2026-05-23 21:22:42:2242 [31merror[39m: [31mKafka consumer request timeout[39m
